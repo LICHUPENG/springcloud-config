@@ -1,0 +1,10 @@
+eureka:
+  client:
+    service-url:
+      defualtZone: http://127.0.0.1:8080/eureka
+ spring:
+  application:
+  name: springcloud-client
+ server:
+  port: 8888
+  
