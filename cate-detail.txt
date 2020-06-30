@@ -1,0 +1,29 @@
+{
+	"id": 6,
+	"name": "粗茶",
+	"products": [{
+		"id": 4,
+		"name": "红袖枸杞 6克*3袋",
+		"price": "0.01",
+		"stock": 998,
+		"main_img_url": "https:\/\/qhejpxn.cn\/images\/product-tea@1.png",
+		"img_id": 32,
+		"summary": null
+	}, {
+		"id": 20,
+		"name": "碧螺春 12克*3袋",
+		"price": "0.01",
+		"stock": 999,
+		"main_img_url": "https:\/\/qhejpxn.cn\/images\/product-tea@2.png",
+		"img_id": 47,
+		"summary": null
+	}, {
+		"id": 21,
+		"name": "西湖龙井 8克*3袋",
+		"price": "0.01",
+		"stock": 998,
+		"main_img_url": "https:\/\/qhejpxn.cn\/images\/product-tea@3.png",
+		"img_id": 48,
+		"summary": null
+	}]
+}
